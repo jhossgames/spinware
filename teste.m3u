@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="SBT - PA" tvg-name="SBT - PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/600px-Logotipo_do_SBT.svg.png" group-title="Selecionando",SBT - PA HD
 https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
 
-#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="selecionando",Rede Vida HD
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="Selecionando",Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="Ae.b4r" group-title="FILMES E SERIES",A&E
