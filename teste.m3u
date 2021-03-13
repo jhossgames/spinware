@@ -1,0 +1,360 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="SBT - PA" tvg-name="SBT - PA" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://diariodorio.com/wp-content/uploads/2020/07/600px-Logotipo_do_SBT.svg.png" group-title="Selecionando",SBT - PA HD
+https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
+
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="selecionando",Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="Ae.b4r" group-title="FILMES E SERIES",A&E
+http://rec2.distv.net:80/luciana/123456/113
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES E SERIES",AMC
+http://rec2.distv.net:80/luciana/123456/223
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES E SERIES",AXN
+http://rec2.distv.net:80/luciana/123456/116
+#EXTINF:0 tvg-id="Sony.br" group-title="FILMES E SERIES",CANAL SONY
+http://rec2.distv.net:80/luciana/123456/123
+#EXTINF:0 tvg-id="Cinemax.br" group-title="FILMES E SERIES",CINEMAX
+http://rec2.distv.net:80/luciana/123456/125
+#EXTINF:0 tvg-id="Comedycentral.br" group-title="FILMES E SERIES",COMEDY CENTRAL
+http://rec2.distv.net:80/luciana/123456/127
+#EXTINF:0 tvg-id="Fox.br" group-title="FILMES E SERIES",FOX
+http://rec2.distv.net:80/luciana/123456/148
+#EXTINF:0 tvg-id="Foxlife.br" group-title="FILMES E SERIES",FOX LIFE
+http://rec2.distv.net:80/luciana/123456/149
+#EXTINF:0 tvg-id="Foxpremium1.br" group-title="FILMES E SERIES",FOX PREMIUM 1
+http://rec2.distv.net:80/luciana/123456/150
+#EXTINF:0 tvg-id="Foxpremium2.br" group-title="FILMES E SERIES",FOX PREMIUM 2
+http://rec2.distv.net:80/luciana/123456/151
+#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES E SERIES",HBO
+http://rec2.distv.net:80/luciana/123456/156
+#EXTINF:0 tvg-id="Hbo2.br" group-title="FILMES E SERIES",HBO 2
+http://rec2.distv.net:80/luciana/123456/157
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="FILMES E SERIES",HBO FAMILY
+http://rec2.distv.net:80/luciana/123456/158
+#EXTINF:0 tvg-id="Max.br" group-title="FILMES E SERIES",HBO MUNDI
+http://rec2.distv.net:80/luciana/123456/159
+#EXTINF:0 tvg-id="Hboplus.br" group-title="FILMES E SERIES",HBO PLUS
+http://rec2.distv.net:80/luciana/123456/160
+#EXTINF:0 tvg-id="Maxup.br" group-title="FILMES E SERIES",HBO POP
+http://rec2.distv.net:80/luciana/123456/161
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="FILMES E SERIES",HBO SIGNATURE
+http://rec2.distv.net:80/luciana/123456/162
+#EXTINF:0 tvg-id="Maxprime.br" group-title="FILMES E SERIES",HBO XTREME
+http://rec2.distv.net:80/luciana/123456/163
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES E SERIES",MEGAPIX
+http://rec2.distv.net:80/luciana/123456/168
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="FILMES E SERIES",PARAMOUNT
+http://rec2.distv.net:80/luciana/123456/178
+#EXTINF:0 tvg-id="Space.br" group-title="FILMES E SERIES",SPACE
+http://rec2.distv.net:80/luciana/123456/187
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://rec2.distv.net:80/luciana/123456/191
+#EXTINF:0 tvg-id="Syfy.br" group-title="FILMES E SERIES",SYFY
+http://rec2.distv.net:80/luciana/123456/192
+#EXTINF:0 tvg-id="Tbs.br" group-title="FILMES E SERIES",TBS
+http://rec2.distv.net:80/luciana/123456/193
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES E SERIES",TELECINE ACTION
+http://rec2.distv.net:80/luciana/123456/194
+#EXTINF:0 tvg-id="Tccult.br" group-title="FILMES E SERIES",TELECINE CULT
+http://rec2.distv.net:80/luciana/123456/195
+#EXTINF:0 tvg-id="Tcfun.br" group-title="FILMES E SERIES",TELECINE FUN
+http://rec2.distv.net:80/luciana/123456/196
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES E SERIES",TELECINE PIPOCA
+http://rec2.distv.net:80/luciana/123456/197
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="FILMES E SERIES",TELECINE PREMIUM
+http://rec2.distv.net:80/luciana/123456/198
+#EXTINF:0 tvg-id="Tctouch.br" group-title="FILMES E SERIES",TELECINE TOUCH
+http://rec2.distv.net:80/luciana/123456/199
+#EXTINF:0 tvg-id="Tnt.br" group-title="FILMES E SERIES",TNT
+http://rec2.distv.net:80/luciana/123456/201
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="FILMES E SERIES",TNT SERIES
+http://rec2.distv.net:80/luciana/123456/202
+#EXTINF:0 tvg-id="ext" group-title="FILMES E SERIES",UNIVERSAL TV
+http://rec2.distv.net:80/luciana/123456/205
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FILMES E SERIES",WARNER CHANNEL
+http://rec2.distv.net:80/luciana/123456/208
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="ENTRETENIMENTO",ANIMAL PLANET
+http://rec2.distv.net:80/luciana/123456/114
+#EXTINF:0 tvg-id="Arte1.br" group-title="ENTRETENIMENTO",ARTE 1
+http://rec2.distv.net:80/luciana/123456/115
+#EXTINF:0 tvg-id="Bis.br" group-title="ENTRETENIMENTO",BIS
+http://rec2.distv.net:80/luciana/123456/120
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="ENTRETENIMENTO",CANAL BRASIL
+http://rec2.distv.net:80/luciana/123456/122
+#EXTINF:0 tvg-id="Culturasp.br" group-title="ENTRETENIMENTO",CULTURA
+http://rec2.distv.net:80/luciana/123456/128
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",CURTA
+http://rec2.distv.net:80/luciana/123456/129
+#EXTINF:0 tvg-id="Discovery.br" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
+http://rec2.distv.net:80/luciana/123456/130
+#EXTINF:0 tvg-id="Homehealth.br" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
+http://rec2.distv.net:80/luciana/123456/131
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="ENTRETENIMENTO",DISCOVERY ID
+http://rec2.distv.net:80/luciana/123456/132
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
+http://rec2.distv.net:80/luciana/123456/134
+#EXTINF:0 tvg-id="Hdtheater.br" group-title="ENTRETENIMENTO",DISCOVERY THEATER
+http://rec2.distv.net:80/luciana/123456/135
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="ENTRETENIMENTO",DISCOVERY TURBO
+http://rec2.distv.net:80/luciana/123456/136
+#EXTINF:0 tvg-id="Discoveryworld.br" group-title="ENTRETENIMENTO",DISCOVERY WORLD
+http://rec2.distv.net:80/luciana/123456/137
+#EXTINF:0 tvg-id="E.br" group-title="ENTRETENIMENTO",E!
+http://rec2.distv.net:80/luciana/123456/141
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",FASHION-CE-HD
+http://rec2.distv.net:80/luciana/123456/82
+#EXTINF:0 tvg-id="FilmyArts.cl" group-title="ENTRETENIMENTO",FILMS & ARTS
+http://rec2.distv.net:80/luciana/123456/227
+#EXTINF:0 tvg-id="Fishtv.br" group-title="ENTRETENIMENTO",FISH TV
+http://rec2.distv.net:80/luciana/123456/146
+#EXTINF:0 tvg-id="Foodnetworkhd.br" group-title="ENTRETENIMENTO",FOOD NETWORK
+http://rec2.distv.net:80/luciana/123456/147
+#EXTINF:0 tvg-id="Futura.br" group-title="ENTRETENIMENTO",FUTURA
+http://rec2.distv.net:80/luciana/123456/228
+#EXTINF:0 tvg-id="Fx.br" group-title="ENTRETENIMENTO",FX
+http://rec2.distv.net:80/luciana/123456/229
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",GAZETA
+http://rec2.distv.net:80/luciana/123456/230
+#EXTINF:0 tvg-id="Gnt.br" group-title="ENTRETENIMENTO",GNT
+http://rec2.distv.net:80/luciana/123456/155
+#EXTINF:0 tvg-id="HGTV.us" group-title="ENTRETENIMENTO",HGTV
+http://rec2.distv.net:80/luciana/123456/164
+#EXTINF:0 tvg-id="Historychannel.br" group-title="ENTRETENIMENTO",HISTORY
+http://rec2.distv.net:80/luciana/123456/165
+#EXTINF:0 tvg-id="H2.uk" group-title="ENTRETENIMENTO",HISTORY 2
+http://rec2.distv.net:80/luciana/123456/166
+#EXTINF:0 tvg-id="Lifetime.br" group-title="ENTRETENIMENTO",LIFE TIME
+http://rec2.distv.net:80/luciana/123456/167
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",LIKE
+http://rec2.distv.net:80/luciana/123456/233
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
+http://rec2.distv.net:80/luciana/123456/235
+#EXTINF:0 tvg-id="Mtv.br" group-title="ENTRETENIMENTO",MTV
+http://rec2.distv.net:80/luciana/123456/169
+#EXTINF:0 tvg-id="MTVLiveHD.uk" group-title="ENTRETENIMENTO",MTV LIVE
+http://rec2.distv.net:80/luciana/123456/236
+#EXTINF:0 tvg-id="Multishow.br" group-title="ENTRETENIMENTO",MULTISHOW
+http://rec2.distv.net:80/luciana/123456/170
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
+http://rec2.distv.net:80/luciana/123456/171
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="ENTRETENIMENTO",NAT GEO
+http://rec2.distv.net:80/luciana/123456/172
+#EXTINF:0 tvg-id="Natgeowildhd.br" group-title="ENTRETENIMENTO",NAT GEO WILD
+http://rec2.distv.net:80/luciana/123456/174
+#EXTINF:0 tvg-id="Off.br" group-title="ENTRETENIMENTO",OFF
+http://rec2.distv.net:80/luciana/123456/177
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
+http://rec2.distv.net:80/luciana/123456/185
+#EXTINF:0 tvg-id="Redevida.br" group-title="ENTRETENIMENTO",REDE VIDA
+http://rec2.distv.net:80/luciana/123456/218
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",SMITHSONIAN
+http://rec2.distv.net:80/luciana/123456/239
+#EXTINF:0 tvg-id="Tlc.br" group-title="ENTRETENIMENTO",TLC
+http://rec2.distv.net:80/luciana/123456/200
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",TRAVELBOX
+http://rec2.distv.net:80/luciana/123456/240
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="ENTRETENIMENTO",TV BRASIL
+http://rec2.distv.net:80/luciana/123456/241
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="ENTRETENIMENTO",TV CULTURA
+http://rec2.distv.net:80/luciana/123456/74
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",TV FAMILIA
+http://rec2.distv.net:80/luciana/123456/68
+#EXTINF:0 tvg-id="Tvnovotempo.br" group-title="ENTRETENIMENTO",TV NOVO TEMPO
+http://rec2.distv.net:80/luciana/123456/242
+#EXTINF:0 tvg-id="VH1.br" group-title="ENTRETENIMENTO",VH1
+http://rec2.distv.net:80/luciana/123456/206
+#EXTINF:0 tvg-id="Viva.br" group-title="ENTRETENIMENTO",VIVA
+http://rec2.distv.net:80/luciana/123456/207
+#EXTINF:0 tvg-id="Woohoo.br" group-title="ENTRETENIMENTO",WOOHOO
+http://rec2.distv.net:80/luciana/123456/243
+
+#EXTINF:0 tvg-id="BabyTV.br" group-title="KIDS",BABY TV
+http://rec2.distv.net:80/luciana/123456/117
+#EXTINF:0 tvg-id="Boomerang.br" group-title="KIDS",BOOMERANG
+http://rec2.distv.net:80/luciana/123456/121
+#EXTINF:0 tvg-id="Cartoonnetwork.br" group-title="KIDS",CARTOON NETWORK
+http://rec2.distv.net:80/luciana/123456/124
+#EXTINF:0 tvg-id="Discoverykids.br" group-title="KIDS",DISCOVERY KIDS
+http://rec2.distv.net:80/luciana/123456/133
+#EXTINF:0 tvg-id="Disneychannel.br" group-title="KIDS",DISNEY CHANNEL
+http://rec2.distv.net:80/luciana/123456/138
+#EXTINF:0 tvg-id="Disneyjrhd.br" group-title="KIDS",DISNEY JR
+http://rec2.distv.net:80/luciana/123456/139
+#EXTINF:0 tvg-id="Disneyxd.br" group-title="KIDS",DISNEY XD
+http://rec2.distv.net:80/luciana/123456/140
+#EXTINF:0 tvg-id="Gloob.br" group-title="KIDS",GLOOB
+http://rec2.distv.net:80/luciana/123456/154
+#EXTINF:0 tvg-id="ext" group-title="KIDS",GLOOBINHO
+http://rec2.distv.net:80/luciana/123456/215
+#EXTINF:0 tvg-id="ext" group-title="KIDS",NAT GEO KIDS
+http://rec2.distv.net:80/luciana/123456/173
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="KIDS",NICK
+http://rec2.distv.net:80/luciana/123456/175
+#EXTINF:0 tvg-id="NickJr.br" group-title="KIDS",NICK JR
+http://rec2.distv.net:80/luciana/123456/176
+#EXTINF:0 tvg-id="ext" group-title="KIDS",PLAY KIDS
+http://rec2.distv.net:80/luciana/123456/216
+#EXTINF:0 tvg-id="Tooncast.br" group-title="KIDS",TOONCAST
+http://rec2.distv.net:80/luciana/123456/203
+#EXTINF:0 tvg-id="Tvratimbum.br" group-title="KIDS",TV RA TIM BUM
+http://rec2.distv.net:80/luciana/123456/204
+#EXTINF:0 tvg-id="Zoomoo.br" group-title="KIDS",ZOOMOO
+http://rec2.distv.net:80/luciana/123456/244
+
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS LOCAIS",BAND
+http://rec2.distv.net:80/luciana/123456/224
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS LOCAIS",CANÇÃO NOVA
+http://rec2.distv.net:80/luciana/123456/65
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS LOCAIS",GLOBO
+http://rec2.distv.net:80/luciana/123456/231
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO BRASILIA HD
+http://rec2.distv.net:80/luciana/123456/3
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO CEARA HD
+http://rec2.distv.net:80/luciana/123456/4
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO FLORIANOPOLIS HD
+http://rec2.distv.net:80/luciana/123456/5
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO MINAS HD
+http://rec2.distv.net:80/luciana/123456/6
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO NATAL HD
+http://rec2.distv.net:80/luciana/123456/7
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO REDE AMAZÔNICA HD
+http://rec2.distv.net:80/luciana/123456/11
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO RIO HD
+http://rec2.distv.net:80/luciana/123456/13
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO RPC CURITIBA HD
+http://rec2.distv.net:80/luciana/123456/14
+#EXTINF:0 tvg-id="Globosp.br" group-title="CANAIS LOCAIS",GLOBO SP HD
+http://rec2.distv.net:80/luciana/123456/15
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO TV ANHANGUERA GOIANIA HD
+http://rec2.distv.net:80/luciana/123456/16
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO TV BAHIA HD
+http://rec2.distv.net:80/luciana/123456/17
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO TV LIBERAL BELEM HD
+http://rec2.distv.net:80/luciana/123456/18
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",GLOBO TV MIRANTE HD (MA)
+http://rec2.distv.net:80/luciana/123456/19
+#EXTINF:0 tvg-id="Idealtv.br" group-title="CANAIS LOCAIS",IDEAL TV
+http://rec2.distv.net:80/luciana/123456/64
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD BAHIA
+http://rec2.distv.net:80/luciana/123456/23
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD BRASILIA
+http://rec2.distv.net:80/luciana/123456/25
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD GOIAS
+http://rec2.distv.net:80/luciana/123456/26
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD MANAUS
+http://rec2.distv.net:80/luciana/123456/22
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD MINAS
+http://rec2.distv.net:80/luciana/123456/27
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD PARA
+http://rec2.distv.net:80/luciana/123456/30
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD RIO
+http://rec2.distv.net:80/luciana/123456/31
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",RECORD MG
+http://rec2.distv.net:80/luciana/123456/32
+#EXTINF:0 tvg-id="Recordsp.br" group-title="CANAIS LOCAIS",RECORD SP
+http://rec2.distv.net:80/luciana/123456/33
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS LOCAIS",REDE TV
+http://rec2.distv.net:80/luciana/123456/69
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS LOCAIS",SBT
+http://rec2.distv.net:80/luciana/123456/238
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV ALEPE
+http://rec2.distv.net:80/luciana/123456/72
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV CIDADE-CARIRI CE
+http://rec2.distv.net:80/luciana/123456/94
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV CLUBE
+http://rec2.distv.net:80/luciana/123456/73
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV DIARIO-CARIRI CE
+http://rec2.distv.net:80/luciana/123456/95
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV EVANGELIZAR
+http://rec2.distv.net:80/luciana/123456/91
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV GLOBO NE
+http://rec2.distv.net:80/luciana/123456/75
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV JORNAL
+http://rec2.distv.net:80/luciana/123456/76
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV NOVA NORDESTE
+http://rec2.distv.net:80/luciana/123456/62
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV PAI ETERNO
+http://rec2.distv.net:80/luciana/123456/103
+#EXTINF:0 tvg-id="Tvtribunasantos.br" group-title="CANAIS LOCAIS",TV TRIBUNA
+http://rec2.distv.net:80/luciana/123456/77
+#EXTINF:0 tvg-id="Tvuniversitaria.br" group-title="CANAIS LOCAIS",TV UNIVERSITARIA
+http://rec2.distv.net:80/luciana/123456/78
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV-A-CRITICA-CE-HD
+http://rec2.distv.net:80/luciana/123456/87
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV-JANGADEIRO-CE-HD
+http://rec2.distv.net:80/luciana/123456/90
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TV-UNIAO-CE-HD
+http://rec2.distv.net:80/luciana/123456/92
+#EXTINF:0 tvg-id="ext" group-title="CANAIS LOCAIS",TVM -CE-HD
+http://rec2.distv.net:80/luciana/123456/93
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="REPORTAGEM",BAND NEWS
+http://rec2.distv.net:80/luciana/123456/118
+#EXTINF:0 tvg-id="ext" group-title="REPORTAGEM",CNN BRASIL
+http://rec2.distv.net:80/luciana/123456/225
+#EXTINF:0 tvg-id="Globonews.br" group-title="REPORTAGEM",GLOBO NEWS
+http://rec2.distv.net:80/luciana/123456/232
+#EXTINF:0 tvg-id="Recordnews.br" group-title="REPORTAGEM",RECORD NEWS
+http://rec2.distv.net:80/luciana/123456/28
+
+#EXTINF:0 tvg-id="Bandsports.br" group-title="SPORTS",BAND SPORTS
+http://rec2.distv.net:80/luciana/123456/119
+#EXTINF:0 tvg-id="Combate.br" group-title="SPORTS",COMBATE
+http://rec2.distv.net:80/luciana/123456/126
+#EXTINF:0 tvg-id="DAZN1BarHD.de" group-title="SPORTS",DAZN
+http://rec2.distv.net:80/luciana/123456/226
+#EXTINF:0 tvg-id="Espn.br" group-title="SPORTS",ESPN
+http://rec2.distv.net:80/luciana/123456/142
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="SPORTS",ESPN 2
+http://rec2.distv.net:80/luciana/123456/143
+#EXTINF:0 tvg-id="Espnbrasil.br" group-title="SPORTS",ESPN BRASIL
+http://rec2.distv.net:80/luciana/123456/144
+#EXTINF:0 tvg-id="Espnextra.br" group-title="SPORTS",ESPN EXTRA
+http://rec2.distv.net:80/luciana/123456/145
+#EXTINF:0 tvg-id="Foxsports.br" group-title="SPORTS",FOX SPORTS
+http://rec2.distv.net:80/luciana/123456/152
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="SPORTS",FOX SPORTS 2
+http://rec2.distv.net:80/luciana/123456/153
+#EXTINF:0 tvg-id="Premiere2.br" group-title="SPORTS",PREMIERE 2
+http://rec2.distv.net:80/luciana/123456/179
+#EXTINF:0 tvg-id="Premiere3.br" group-title="SPORTS",PREMIERE 3
+http://rec2.distv.net:80/luciana/123456/180
+#EXTINF:0 tvg-id="Premiere4.br" group-title="SPORTS",PREMIERE 4
+http://rec2.distv.net:80/luciana/123456/181
+#EXTINF:0 tvg-id="Premiere5.br" group-title="SPORTS",PREMIERE 5
+http://rec2.distv.net:80/luciana/123456/182
+#EXTINF:0 tvg-id="Premiere6.br" group-title="SPORTS",PREMIERE 6
+http://rec2.distv.net:80/luciana/123456/183
+#EXTINF:0 tvg-id="Premiere7.br" group-title="SPORTS",PREMIERE 7
+http://rec2.distv.net:80/luciana/123456/237
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="SPORTS",PREMIERE CLUBES
+http://rec2.distv.net:80/luciana/123456/184
+#EXTINF:0 tvg-id="Sportv.br" group-title="SPORTS",SPORTV
+http://rec2.distv.net:80/luciana/123456/188
+#EXTINF:0 tvg-id="Sportv2.br" group-title="SPORTS",SPORTV 2
+http://rec2.distv.net:80/luciana/123456/189
+#EXTINF:0 tvg-id="Sportv3.br" group-title="SPORTS",SPORTV 3
+http://rec2.distv.net:80/luciana/123456/190
+
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 01
+http://rec2.distv.net:80/luciana/123456/48
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 02
+http://rec2.distv.net:80/luciana/123456/49
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 03
+http://rec2.distv.net:80/luciana/123456/50
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 04
+http://rec2.distv.net:80/luciana/123456/51
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 05
+http://rec2.distv.net:80/luciana/123456/52
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 06
+http://rec2.distv.net:80/luciana/123456/53
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 07
+http://rec2.distv.net:80/luciana/123456/54
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 08
+http://rec2.distv.net:80/luciana/123456/55
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 09
+http://rec2.distv.net:80/luciana/123456/56
+#EXTINF:0 tvg-id="ext" group-title="CINE SKY",CINE SKY 10
+http://rec2.distv.net:80/luciana/123456/57
